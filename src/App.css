@@ -1,0 +1,9 @@
+.app__body{
+    display: flex;
+    width: 84%;
+}
+
+.app{
+    background-color: #f1f2f5 ;
+}
+
